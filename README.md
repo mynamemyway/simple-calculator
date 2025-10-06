@@ -1,2 +1,2 @@
-# first_calculator
+# first-calculator
 Performs simple operations (+, -, *, /)
